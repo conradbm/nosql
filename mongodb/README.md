@@ -1,5 +1,6 @@
 <h2> MongoDB </h2>
-<h3> Simple examples</h3>
+<h3> How-to Launch on MACOSX</h3>
+`mongo`
 <code>
 >> mongo
 
