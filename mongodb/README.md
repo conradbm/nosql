@@ -1,9 +1,14 @@
 <h2> MongoDB </h2>
 <h3> How-to Launch on MACOSX</h3>
-`mongo`
-<code>
->> mongo
 
+<code>
+<ul> 
+<li>>> mongo</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<ul>
 >> show dbs
 
 >> use UCI-Database
