@@ -1,0 +1,4 @@
+Boston, Ney_York, 2
+Ney_York, Chicago, 10
+Chicago, Las_Angelas, 100
+Las_Angelas, Boston, 105
