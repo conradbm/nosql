@@ -1,3 +1,6 @@
+<h3>Cassandra</h3>
+<p> A framework which supports querying over a cluster of servers with the backend structure as a Wide-Column Database</p>
+
 <h3> Setting up Cassandra</h3>
 
 <p>Install the .tar.gz file from cassandra.apache.org</p>

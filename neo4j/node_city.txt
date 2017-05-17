@@ -1,0 +1,4 @@
+Ney_York, 12
+Chicago, 23
+Las_Angelas, 35
+Boston, 2
